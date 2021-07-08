@@ -52,7 +52,7 @@ footer {
     padding-top: 20px;
     color:rgb(211,218,240);
 }
-/*page 2*/
+/*page 2 styling*/
 table {
     margin-top: 35px;
 }
@@ -71,7 +71,7 @@ caption {
     padding-top: 15px;
     color: #753a30;
 }
-/* page3 */
+/* page3 styling*/
 label {
     display: block;
     margin: 15px 0 0 0;
@@ -85,7 +85,7 @@ input[type="radio"] { /*attribute selector*/
 textarea {
     width: 300px;
 }
-input[type="submit"], [type="reset"] {
+input[type="submit"], [type="reset"]{
     display: block;
     margin: 20px 0 10px 0;
     width: 100px;
